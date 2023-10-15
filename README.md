@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VidhiKhobragade
-- 👀 I’m interested in Python Programming
+- Area of Interest - Python Programming
+-                    Web Development
 - ✨ core-> Artificial Intillegence
-- 🌱 I’m currently learning web development
 
 
 
